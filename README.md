@@ -21,14 +21,15 @@
     - market的python测试结果只有rank1-acc和map，rank5和rank10需要用matlab代码计算
   - 各种可视化： [delta_track.py](viz/delta_track.py)
 
-##　Citation
+
+## Citation
 
 Please cite this paper in your publications if it helps your research:
 
 @article{,
   title={Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns},
   author={Jianming, Lv and Weihang, Chen and Qing, Li and Can, Yang},
-  journal={arxiv},
-  year={2017}
+  journal={CVPR},
+  year={2018}
 }
                       
